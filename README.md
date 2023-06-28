@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amandardenton
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning SQL, R, data visualiztion
+- 🌱 I’m currently learning SQL, R, data visualization
 - 📫 How to reach me ...Amandardenton@gmail.com
 
 <!---
